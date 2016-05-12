@@ -16,7 +16,7 @@ Use this method and use 'XeLaTeX' to Compile .tex document.
   \usepackage{xeCJK}
   \setCJKmainfont{WenQuanYi Micro Hei}
 
-  \author{jinjiachen}
+  \author{Ren Dexin}
   \title{learning}
 
 \begin{document}
@@ -27,3 +27,7 @@ Use this method and use 'XeLaTeX' to Compile .tex document.
 ```
 
 YES, no errors.
+
+Here, I used a system font named"WenQuanYi Micro Hei",and set it as CJKmainfont.
+
+And \usepackage{xeCJK}
